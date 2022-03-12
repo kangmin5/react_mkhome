@@ -1,9 +1,10 @@
 import React from 'react'
+import './testimonials.css'
 
 export default function Testimonials() {
   return (
-    <div>
+    <section id='testimonials.css'>
       Testimonials
-    </div>
+    </section>
   )
 }
